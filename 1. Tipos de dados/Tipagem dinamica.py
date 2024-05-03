@@ -1,3 +1,5 @@
+import os
+os.system("cls || clear")
 # Tipagem dinâmica.
 
 # Atribuindo valores.
